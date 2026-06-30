@@ -1,7 +1,7 @@
 # Analystlab_week-4_executive-sales-performance-dashboard
 An interactive Power BI dashboard built to analyze sales performance, profitability, regional trends, and product performance using the Sample Superstore dataset.  This project was developed as part of the **AnalystLab Africa Data Analytics Internship – Week 4**.
 
-## 📌 Project Overview
+##  Project Overview
 
 Businesses generate large amounts of transactional sales data every day. This dashboard transforms raw sales data into meaningful business insights that help executives monitor performance and make data-driven decisions.
 
@@ -16,13 +16,13 @@ The dashboard focuses on answering questions such as:
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 
 Build an executive-level dashboard that communicates business performance through interactive visualizations and KPI monitoring.
 
 ---
 
-## 📈 Dashboard KPIs
+##  Dashboard KPIs
 
 - Total Sales
 - Total Profit
@@ -32,7 +32,7 @@ Build an executive-level dashboard that communicates business performance throug
 
 ---
 
-## 📊 Dashboard Visuals
+##  Dashboard Visuals
 
 - Sales Trend Over Time
 - Profit by Region
@@ -43,7 +43,7 @@ Build an executive-level dashboard that communicates business performance throug
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Microsoft Power BI
 - Power Query
@@ -52,7 +52,7 @@ Build an executive-level dashboard that communicates business performance throug
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Executive-Sales-Performance-Dashboard
@@ -65,7 +65,7 @@ Executive-Sales-Performance-Dashboard
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 - Sales reached approximately **$2.3M**.
 - The West Region generated the highest profit.
@@ -75,7 +75,7 @@ Executive-Sales-Performance-Dashboard
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 - Review discount strategies on low-profit products.
 - Increase investment in high-performing product categories.
@@ -84,7 +84,7 @@ Executive-Sales-Performance-Dashboard
 
 ---
 
-## 🚀 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Data Modeling
@@ -96,8 +96,19 @@ Executive-Sales-Performance-Dashboard
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 > *(Dashboard screenshot will be updated after final polishing.)*
+
+##  Author
+
+**Olabisi Adeyemo**
+
+- LinkedIn: https://www.linkedin.com/in/olabisi-adegoke/
+- GitHub: github.com/OlabisiAdeyemoDATA
+
+---
+
+ This project is currently Version 1 and will be enhanced with additional dashboard pages, improved visual formatting, and deeper business insights.
 
 ---
